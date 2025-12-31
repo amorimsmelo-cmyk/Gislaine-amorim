@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Conecta Clientes - IA Clara",
+  "description": "SaaS estratégico para salões de beleza com interface WhatsApp-first e inteligência artificial Clara para gestão de atendimentos e pós-venda.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
